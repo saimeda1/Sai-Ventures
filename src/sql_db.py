@@ -1,5 +1,5 @@
 import MySQLdb
 
 def create_DB():
-    db = MySQLdb.connect(host=" 
+    db = MySQLdb.connect(host="localhost",) 
                          

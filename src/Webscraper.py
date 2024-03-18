@@ -2,6 +2,7 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 from flask import Flask, request, send_file
+import selenium
 import io
 
 
