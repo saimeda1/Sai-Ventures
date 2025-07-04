@@ -51,7 +51,3 @@ Next Steps:
 • Add user authentication for personal portfolios
 • Enhance visualization dashboard with filters and strategy tools
 • Build REST APIs for dynamic client-server communication
-
-License:
---------
-MIT License
