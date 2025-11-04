@@ -113,6 +113,9 @@ The application will open automatically in your browser at `http://localhost:850
 # - TSLA (Tesla)
 # - Any valid stock symbol
 ```
+
+<img width="993" height="772" alt="Screenshot 2025-11-04 at 12 42 26 PM" src="https://github.com/user-attachments/assets/b915bdcd-4726-4def-a163-959934b12106" />
+
 <img width="974" height="716" alt="Screenshot 2025-11-04 at 12 42 32 PM" src="https://github.com/user-attachments/assets/b9b28b8f-8768-407f-b42e-b663be626aa1" />
 
 
