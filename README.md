@@ -55,7 +55,7 @@ The application will open automatically in your browser at `http://localhost:850
    - Percentile Analysis: Valuation assessment
    - Summary Table: Comprehensive overview
 
-## 🎯 How to Use
+## How to Use
 
 ### Step 1: Search Stock
 - Enter any stock ticker (e.g., AAPL, MSFT, GOOGL)
